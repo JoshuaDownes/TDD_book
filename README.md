@@ -1,0 +1,1 @@
+Django to-do list app from test-driven-design book *Obey the Testing Goat* written by Harry J. W. Percival. Minor tweaks but most code is taken by following along in the book; uploaded to github to mess around with deployment
