@@ -23,9 +23,9 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = '(e)jhz@!=)rh52v3r@n*wb=847)n9#(3)(twoav+y!=ifjpx3o'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
-ALLOWED_HOSTS = ['lists-staging.terklerk.club']
+ALLOWED_HOSTS = ['lists-staging.terklerk.club', 'localhost']
 
 
 # Application definition
